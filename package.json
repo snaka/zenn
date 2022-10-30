@@ -1,0 +1,23 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "Articles for Zenn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/snaka/zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snaka/zenn/issues"
+  },
+  "homepage": "https://github.com/snaka/zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.131"
+  }
+}
